@@ -1,0 +1,58 @@
+
+#header {
+	font-size: 45px;
+	text-align: center;
+	margin-top: 30px;
+	margin-left: 150px;
+	margin-bottom: 0px;
+	
+}
+
+#Descrip {
+	font-size: 15px;
+	font-family: Teko;
+}
+
+#headshot {
+	margin-top: -32px;
+	margin-right: 150px;
+	border-radius: 50%;
+}
+
+.jumbotron {
+    padding: 10px;
+	font-family: Teko;
+	background-color:#9CEDF2;
+}
+
+#NavLinks {
+	margin-top: -35px;
+	font-size: 30px;	
+	font-family: Teko;
+	text-align: center;
+}
+
+.accordion {
+    cursor: pointer;
+    padding: 20px;
+    width: 100%;
+    text-align: center;
+    transition: 0.4s;
+	font-size: 40px;
+	background-color: white;
+	font-family: Teko;
+}
+
+.active, .accordion:hover {
+    background-color: #9CEDF2;
+}
+
+.panel {
+	font-size: 20px;
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.2s ease-out;
+	font-family: Teko;
+}
+
+
